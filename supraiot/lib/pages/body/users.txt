@@ -1,0 +1,3 @@
+utilizador1@email.com:12345
+utilizador2@email.com:abcde
+utilizador3@email.com:qwerty
